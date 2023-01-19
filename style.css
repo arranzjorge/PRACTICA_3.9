@@ -1,0 +1,37 @@
+body.body{
+    background-color:rgb(240, 240, 240);
+}
+
+h1.titulo_inicio{
+    color: blueviolet;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size:50px;
+}
+
+p.links{
+    text-align: center;
+    font-weight: bold;
+}
+
+hr.hr1{
+    color: blueviolet;
+}
+
+p.footer{
+    color: grey;
+    text-align: center;
+    font-size: small;
+    position: relative;
+    bottom: auto;
+}
+
+p.texto_main{
+    font-size: large;
+}
+
+img.imagen{
+    width: 150px;
+    height: 200;
+}
