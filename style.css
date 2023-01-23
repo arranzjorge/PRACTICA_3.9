@@ -29,9 +29,27 @@ p.footer{
 
 p.texto_main{
     font-size: large;
+    position: relative;
+    left: 20px;
 }
 
 img.imagen{
     width: 150px;
     height: 200;
+}
+
+p.texto_main3{
+    font-size: large;
+    position: relative;
+    left: 40px;
+}
+
+span.negrita{
+    font-size: larger;
+    font-weight: bolder;
+}
+
+p.formulario{
+    font-size: large;
+    text-align: center;
 }
